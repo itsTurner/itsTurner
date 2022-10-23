@@ -4,7 +4,7 @@ I'm a student (& free time pull requester) from soon-to-be-snowy CO 🏔️
 
 ### Right now I'm...
  🦬 **Studying CS** at University of Colorado Boulder  
- 👀 Building super-secret **suckless stuff** (stick around)  
+ 👀 Building super-secret **new stuff** (stick around)  
  🧋 Using **computing for good** with [Blueprint Boulder](https://github.com/blueprintboulder)  
  📻 Skyrocketing my [playlist count](https://open.spotify.com/user/camelinatardis)
  

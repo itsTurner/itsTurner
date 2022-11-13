@@ -1,6 +1,6 @@
 # Hey, itsMe – Tavin!
 
-I'm a student (& free time pull requester) from soon-to-be-snowy CO 🏔️
+I'm a student (& free time pull requester) from now-snowy CO 🏔️
 
 ### Right now I'm...
  🦬 **Studying CS** at University of Colorado Boulder  

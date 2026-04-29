@@ -3,11 +3,15 @@
 I'm a student (& free time pull requester) from now-snowy CO 🏔️
 
 ### Right now I'm...
- 🦬 **Studying CS** at University of Colorado Boulder  
+ 🌺 Enabling at **Ibotta**
+ 💫 Researching quantum systems @ **QUASAR**
  👀 Building super-secret **new stuff** (stick around)  
- 🧋 Using **computing for good** with [Blueprint Boulder](https://github.com/blueprintboulder)  
  📻 Skyrocketing my [playlist count](https://open.spotify.com/user/camelinatardis)
- 
+
+### Recently I was...
+ 🦬 **Studying CS** at University of Colorado Boulder (BS'25 + MS'26)
+ 🧋 Using **computing for good** with [Blueprint Boulder](https://github.com/blueprintboulder)  
+
 ### Talk to me about...
  ⚛️ Quantum  
  🍵 Your favorite tea  

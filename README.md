@@ -1,6 +1,6 @@
 # Hey, itsMe – Tavin!
 
-I'm a student (& free time pull requester) from now-snowy CO 🏔️
+I'm a technologist (& free time pull requester) from now-sunny CO ⛰️
 
 ### Right now I'm...
  🌺 Enabling at **Ibotta**  
